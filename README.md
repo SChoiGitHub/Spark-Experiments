@@ -1,4 +1,4 @@
-# Machine-Learning-Experiments
+# Apache Spark Experiments
 
 These are my personal experiments with Apache Spark and its comparison with Pandas. It uses GOOG stock data obtained using yfinance as well.
 
