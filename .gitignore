@@ -1,0 +1,7 @@
+**/*.swp
+**/*.data
+**/*.test
+**/*.pdf
+**/*.ckpt
+**/*.index
+**/.ipynb_checkpoints

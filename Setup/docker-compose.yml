@@ -1,0 +1,12 @@
+version: '3.0'
+services:
+  spark:
+    container_name: sparkExperiments
+    build: .
+    ports:
+    - "10000:8888"
+    volumes:
+    - ~/spark:/home/jovyan/experiments
+    restart: always
+    environment:
+    - JUPYTER_TOKEN=1qasdfghjkl;'
